@@ -9,13 +9,12 @@ This repo is based on the following packages :
 
 Python v3.7
 
+Keras v2.2.4-tf
+
 Tensorflow v2.0.0 (Python Version)
 
 Scikit-image
 
-Keras v2.2.4-tf
+Pandas
 
 Numpy
-
-
-
