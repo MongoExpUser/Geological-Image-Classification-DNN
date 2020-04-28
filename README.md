@@ -7,14 +7,14 @@
 This repo is based on the following packages :
 
 
-Python v3.7
+Python v3.7.5
 
 Keras v2.2.4-tf
 
-Tensorflow v2.0.0 (Python Version)
+Tensorflow v2.0.0 
 
-Scikit-image
+Scikit-image v0.16.2
 
-Pandas
+Pandas v1.0.3
 
-Numpy
+Numpy v1.18.3
