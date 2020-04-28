@@ -7,7 +7,7 @@
 This repo is based on the following packages :
 
 
-Python v3.7.5
+Python v3.7
 
 Keras v2.2.4-tf
 
