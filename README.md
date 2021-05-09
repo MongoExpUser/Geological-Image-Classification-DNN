@@ -18,3 +18,11 @@ Scikit-image v0.16.2
 Pandas v1.0.3
 
 Numpy v1.18.3
+
+
+
+# License
+
+Copyright © 2015 - present. MongoExpUser
+
+Licensed under the MIT license.
