@@ -19,7 +19,6 @@
 #  Source of datasets: "http://aws-proserve-data-science.s3.amazonaws.com/geological_similarity.zip"
 #  It was extracted into the current working directory (CWD)
 #
-#
 #  Objectives for rock/reservoir images "Classification" with Standard-FFNN Model
 #  ==============================================================================
 #  1) Given a set of labels/categories/classes (output) for images (input)
@@ -28,7 +27,6 @@
 #  4) For fitted/trained datasets, obtain a set of hyper-parameters for the DNN model (Standard-FFNN)
 #  5) Evaluate and save model.
 #  6) Based on saved model, then predict classifications for unseen image datasets.
-#
 #
 #  Applications:
 #  =============
