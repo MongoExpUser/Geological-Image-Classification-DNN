@@ -1,12 +1,12 @@
 # *******************************************************************************************************************************************
-# * @License Starts
-# *
-# * Copyright © 2015 - present. MongoExpUser
-# *
-# *  License: MIT - See: https://opensource.org/licenses/MIT
-# *
-# * @License Ends
-# *
+# * @License Starts                                                                                                                         *
+# *                                                                                                                                         *
+# * Copyright © 2015 - present. MongoExpUser                                                                                                *
+# *                                                                                                                                         *
+# *  License: MIT - See: https://opensource.org/licenses/MIT                                                                                *
+# *                                                                                                                                         *
+# * @License Ends                                                                                                                           *
+# *                                                                                                                                         *
 # *******************************************************************************************************************************************
 #
 #  ...GeologicalImageClassificationDNN.py  implements:
@@ -15,7 +15,7 @@
 #
 #  Data Source:
 #  ===========
-#  Dataset for images classification is AWS' Geological Similarity dataset
+#  Dataset for images classification is AWS  Geological Similarity dataset
 #  Source of datasets: "http://aws-proserve-data-science.s3.amazonaws.com/geological_similarity.zip"
 #  It was extracted into the current working directory (CWD)
 #
