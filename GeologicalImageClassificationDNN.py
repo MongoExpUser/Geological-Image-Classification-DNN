@@ -51,7 +51,7 @@
 # 1) Download the dataset from: "http://aws-proserve-data-science.s3.amazonaws.com/geological_similarity.zip".
 # 2) Unzip the downloaded file and copy the "6 folders" containing images for the labels into the current working directory (CWD).
 # 3) Save this file (GeologicalImageClassificationDNN.py) in the CWD.
-# 4) At the prompt, simply run: python GeologicalImageClassificationDNN.py
+# 4) At the prompt, simply run: sudo python3 GeologicalImageClassificationDNN.py
 # *******************************************************************************************************************************************
 # *******************************************************************************************************************************************
 
