@@ -3,7 +3,7 @@
 # *                                                                                                                                         *
 # * Copyright © 2015 - present. MongoExpUser                                                                                                *
 # *                                                                                                                                         *
-# *  License: MIT - See: https://opensource.org/licenses/MIT                                                                                *
+# *  License: MIT - See: https://github.com/MongoExpUser/Geological-Image-Classification-DNN/blob/master/LICENSE                            *
 # *                                                                                                                                         *
 # * @License Ends                                                                                                                           *
 # *                                                                                                                                         *
