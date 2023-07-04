@@ -32,10 +32,12 @@
 #  =============
 #  Why classification: classification helps to map rock/reservoir image for type, nature, quality, fluid content, changes, disturbance, etc.
 #  which can be of practical use in a variety of industrial and mineral extractive applications, including:
-#    i)   optimal well placement, hydraulic fracture design and production optimization in oil and gas development
-#    ii)  geo-hazard identification in site locations
-#    iii) level or degree of minerals site poaching
-#    iv)  mapping surface rock disturbance in surface mining or other geological-related operations
+#    1)  optimal well placement, hydraulic fracture design and production optimization in oil and gas development
+#    2)  geo-hazard identification in site locations
+#    3)  level or degree of minerals site poaching
+#    4)  mapping surface rock disturbance in surface mining or other geological-related operations
+#    5)  mapping subsurface rock for geothermal renewable energy potentials
+#    6)  mapping subsurface for rare-earth metals used in electric cars, solar panel, wind turnine, storage batteries, electronics, computers, etc.
 #
 #
 # Instruction on Running the Module
