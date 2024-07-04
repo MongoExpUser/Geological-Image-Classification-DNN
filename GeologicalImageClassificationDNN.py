@@ -17,6 +17,7 @@
 #  ===========
 #  Dataset for images classification is AWS  Geological Similarity dataset
 #  Source of datasets: "http://aws-proserve-data-science.s3.amazonaws.com/geological_similarity.zip"
+#  Alternative (mirror) source of datasets: "https://pub-de78c5c9928c4eeea7f7296c2f165c16.r2.dev/geological_similarity.zip"
 #  It was extracted into the current working directory (CWD)
 #
 #  Objectives for rock/reservoir images "Classification" with Standard-FFNN Model
@@ -107,7 +108,8 @@ class GeologicalImageClassificationDNN():
 
     # 1. load data
     # ============
-    # the dataset (image dataset) is downloaded from: "http://aws-proserve-data-science.s3.amazonaws.com/geological_similarity.zip"
+    # the dataset (image dataset) is downloaded from this link: "http://aws-proserve-data-science.s3.amazonaws.com/geological_similarity.zip"
+    # the dataset (image dataset) can also be downloaded from an alternative (mirror) link: "https://pub-de78c5c9928c4eeea7f7296c2f165c16.r2.dev/geological_similarity.zip"
     # it was been extracted into the current working directory (CWD) and are located in 6 folders within the CWD,
     # the names of the folder corrresponds to  the images label/class/category names, which are:
     # 0 - andesite  - an igneous rock
